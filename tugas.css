@@ -1,7 +1,6 @@
 body{
     background-color:lightslategray;}
     .gambar {
-        text-align: center;
     }
     .pendidikan {
         background-color: floralwhite;
@@ -9,13 +8,11 @@ body{
         max-width: 400px;
         width: 300px;
         text-align: center;
-        font-family: 'Patrick Hand', cursive;
     }
     table.tablependidikan {
         background-color: floralwhite;
         border: 10px solid gold;
         margin: 0 auto;
-        font-family: 'Patrick Hand', cursive;
     }
     .ukuran-gambar {
         width: 200px;
@@ -28,7 +25,6 @@ div .biodata{
     background-color:floralwhite;
     border: 10px solid gold ;
     text-align: center;
-    font-family: 'Patrick Hand', cursive;
 }
 
     div .perkenalan{
@@ -37,7 +33,6 @@ div .biodata{
         border: 10px solid gold;
         margin: 10px 50px 50px 50px;
         font-size: medium;
-        font-family: 'Patrick Hand', cursive;
     }
 
 .study{
@@ -46,7 +41,6 @@ div .biodata{
     font-size: medium;
     padding: 50px 100px 50px 150px;
     border: 5px solid black;
-    font-family: 'Patrick Hand', cursive;
 }
 
 .pengalaman{
@@ -56,7 +50,6 @@ div .biodata{
     border: 10px solid gold;
     text-align: center;
     margin: 40px;
-    font-family: 'Patrick Hand', cursive;
 }
 .INSPIRASI{
     background-color: floralwhite;
@@ -65,5 +58,4 @@ div .biodata{
     padding: 15px 20px;
     border: 10px solid gold;
     margin: 10px 50px 50px 50px;
-    font-family: 'Patrick Hand', cursive;
 }
